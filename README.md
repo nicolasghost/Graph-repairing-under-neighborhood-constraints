@@ -5,7 +5,7 @@
 ### 1. Configure Environment Variables
 
 Create a `.env` file in the project root 
-Use `.env` as a template.
+Use `env.txt` as a template.
 
 **Example contents:**
 ```
