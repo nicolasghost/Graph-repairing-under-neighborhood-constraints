@@ -1,6 +1,6 @@
-temp
 .env
 .venv/
+temp
 __pycache__/
 *.pyc
 .DS_Store
