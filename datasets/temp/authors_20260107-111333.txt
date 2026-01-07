@@ -1,0 +1,47 @@
+a. blum
+a. ehrenfeucht
+a. y. ng
+b. selman
+d. haussler
+d. lewis
+d. p. helmbold
+d. ron
+e. bauer
+e. shamir
+h. a. kautz
+h. drucker
+h. s. seung
+j. e. payne
+j. jackson
+j. p. callan
+j. p. kearns
+l. g. valiant
+l. m. sellie
+l. pitt
+m. feder
+m. furst
+m. j. kearns
+m. k. warmuth
+m. li
+n. cesa-bianchi
+n. littlestone
+n. tishby
+p. auer
+p. bartlett
+p. simard
+r. e. schapire
+r. k. wolpert
+r. l. rivest
+r. lipton
+r. papka
+r. rubinfeld
+s. a. goldman
+s. rudich
+s. singh
+t. dietterich
+u. vazirani
+w. s. lee
+w. w. cohen
+y. freund
+y. mansour
+y. singer
