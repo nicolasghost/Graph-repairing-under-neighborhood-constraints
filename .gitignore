@@ -1,2 +1,7 @@
+.env
+.venv/
 temp
 *.txt
+__pycache__/
+*.pyc
+.DS_Store
